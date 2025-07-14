@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I am a BYU Psychology & Statistics Student:
-### - I am a rookie coder
-### - I like to think that I'm a nerd
+### I am a UNC Charlotte PhD Student:
+### - Huge Nerd
+### - Victim of a Feral Wife
 ### - I also like to think I'm good at statistics
 <!--
 **hermite2010/hermite2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
